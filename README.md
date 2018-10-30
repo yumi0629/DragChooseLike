@@ -6,4 +6,4 @@ Sliding to the left means dislike, slipping to the right means expressing love.
 
 Hope you like it!
 
-![](https://gitee.com/yumi0629/ImageAsset/raw/master/drag_like/drag_like.gif)
+![](https://github.com/yumi0629/DragChooseLike/blob/master/images/drag_like.gif?raw=true)
